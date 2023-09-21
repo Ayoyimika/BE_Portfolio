@@ -9,55 +9,59 @@ I am a dedicated and motivated backend developer who has recently completed a 6-
 ## Experience
 
 ### Backend Developer Intern
-- [Company Name or Project Name](#) | [Dates of Internship]
+- STUTERN| **June 2022 - May 2023**
   - Assisted in the development of backend systems, including database design and API integration.
-  - Collaborated with a team of developers to deliver high-quality software solutions.
-  - Debugged and optimized code for improved performance.
-  - Participated in code reviews and contributed to the codebase.
+  - Collaborated with a team of developers and designers to deliver high-quality software solutions.
+  - Developed RESTful APIs leveraging the power of JavaScript, NodeJS, ExpressJS, and MongoDB to create server-side applications and secure the applications by authenticating and validating users.
+  - Completed the development of multiple web applications with Html, CSS, and JavaScript.
 
-### [Add more experience if applicable]
 
 ## 🚀 Projects
 
-### Project 1: [Project Name](#)
-- [GitHub Repository](#)
-- Description: Briefly describe the project and your role in it.
-- Technologies Used: List the technologies, frameworks, and tools used.
-- Key Achievements: Highlight key accomplishments or challenges overcome.
+### Project 1: [Project Name]
+- [GitHub Repository]
+- Description: 
+- Technologies Used: 
+- Key Achievements:
 
 ### Project 2: [Project Name](#)
 - [GitHub Repository](#)
-- Description: Briefly describe the project and your role in it.
-- Technologies Used: List the technologies, frameworks, and tools used.
-- Key Achievements: Highlight key accomplishments or challenges overcome.
+- Description:
+- Technologies Used:
+- Key Achievements:
 
-### [Add more projects as needed]
 
 ## Skills
 
-- Programming Languages: [List languages, e.g., Python, Java]
-- Backend Frameworks: [List frameworks, e.g., Django, Express]
-- Database Management: [List databases, e.g., MySQL, MongoDB]
-- API Development: [List tools and technologies, e.g., REST, GraphQL]
-- Version Control: [List tools, e.g., Git, GitHub]
-- Problem-Solving: [Mention any problem-solving skills or methodologies]
+- Programming Languages:Python, Javascript, Nodejs
+- Backend Frameworks: ExpressJs
+- Database Management:  MySQL, MongoDB
+- API Development:  REST
+- Version Control: Git, GitHub
+- Problem-Solving skills
+  
 
 ## Education
 
-- [Degree Earned, e.g., Bachelor of Science in Computer Science](#)
-  - [University Name](#) | [Graduation Year]
-- Relevant Courses: List any courses related to backend development or programming.
+  ## University of Ibadan
+  
+Bachelor of Science, Food Technology
+
+
+### STUTERN 2023
+
+Software Development, NodeJS-Backend
+
 
 ## 📄 Resume
 
-- [Link to your Resume PDF](#) | [Alternative Text for the Link]
-
+- [[Link to your Resume PDF]](https://github.com/Ayoyimika)(#) 
 # 💌 Socials
 
 - [[LinkedIn Profile]](https://www.linkedin.com/in/victoria-7/)(#)
-- [GitHub Profile](#)
-- [Twitter Profile](#)
-- [Email Address](#)
-- [Personal Website or Blog](#)
+- [[GitHub Profile]](https://github.com/Ayoyimika)(#)
+- [[Twitter Profile]](https://twitter.com/versatile_ava)(#)
+- Email - vicaava@gmail.com(#)
+- [[Personal Website or Blog]](https://mainstack.me/avavica)(#)
 
 ---
