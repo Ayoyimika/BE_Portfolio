@@ -58,13 +58,13 @@ Software Development, NodeJS-Backend
 
 ## 📄 Resume
 
-- [[Link to your Resume PDF]](https://github.com/Ayoyimika)(#) 
+- [[Link to your Resume PDF]](https://github.com/Ayoyimika)
 # 💌 Socials
 
-- [[LinkedIn Profile]](https://www.linkedin.com/in/victoria-7/)(#)
-- [[GitHub Profile]](https://github.com/Ayoyimika)(#)
-- [[Twitter Profile]](https://twitter.com/versatile_ava)(#)
-- Email - vicaava@gmail.com(#)
-- [[Personal Website or Blog]](https://mainstack.me/avavica)(#)
+- [[LinkedIn Profile]](https://www.linkedin.com/in/victoria-7/)
+- [[GitHub Profile]](https://github.com/Ayoyimika)
+- [[Twitter Profile]](https://twitter.com/versatile_ava)
+- Email - vicaava@gmail.com
+- [[Personal Website or Blog]](https://mainstack.me/avavica)
 
 ---
