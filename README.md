@@ -1,6 +1,6 @@
 # BE_Portfolio
 
-# [Your Name]'s Portfolio
+# Victoria Ayodeji's Portfolio
 
 ## Summary
 
@@ -8,8 +8,8 @@ I am a dedicated and motivated backend developer who has recently completed a 6-
 
 ## Experience
 
-### Backend Developer Intern
-- STUTERN| **June 2022 - May 2023**
+### Software Engineer Intern
+- ## STUTERN | **Sept 2022 - May 2023**
   - Assisted in the development of backend systems, including database design and API integration.
   - Collaborated with a team of developers and designers to deliver high-quality software solutions.
   - Developed RESTful APIs leveraging the power of JavaScript, NodeJS, ExpressJS, and MongoDB to create server-side applications and secure the applications by authenticating and validating users.
@@ -18,18 +18,21 @@ I am a dedicated and motivated backend developer who has recently completed a 6-
 
 ## 🚀 Projects
 
-### Project 1: [Project Name]
-- [GitHub Repository]
-- Description: 
-- Technologies Used: 
-- Key Achievements:
+### Project 1: To-do List
+- [[GitHub Repository]](https://github.com/Ayoyimika/to-do-list)
+- Technologies Used: Javascript
 
-### Project 2: [Project Name](#)
-- [GitHub Repository](#)
-- Description:
-- Technologies Used:
-- Key Achievements:
+### Project 1: Udemy Clone
+- [[GitHub Repository]](https://github.com/Ayoyimika/Udemy-Clone)
+- Technologies Used: Javascript
 
+### Project 1: IG Clone
+- [[GitHub Repository]](https://github.com/Ayoyimika/ig-clone)
+- Technologies Used: Javascript
+
+### Project 1: Netflix Clone
+- [[GitHub Repository]](https://github.com/Ayoyimika/Netflix-clone)
+- Technologies Used: Javascript
 
 ## Skills
 
