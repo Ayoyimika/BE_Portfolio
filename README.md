@@ -22,15 +22,15 @@ I am a dedicated and motivated backend developer who has recently completed a 6-
 - [[GitHub Repository]](https://github.com/Ayoyimika/to-do-list)
 - Technologies Used: Javascript
 
-### Project 1: Udemy Clone
+### Project 2: Udemy Clone
 - [[GitHub Repository]](https://github.com/Ayoyimika/Udemy-Clone)
 - Technologies Used: Javascript
 
-### Project 1: IG Clone
+### Project 3: IG Clone
 - [[GitHub Repository]](https://github.com/Ayoyimika/ig-clone)
 - Technologies Used: Javascript
 
-### Project 1: Netflix Clone
+### Project 4: Netflix Clone
 - [[GitHub Repository]](https://github.com/Ayoyimika/Netflix-clone)
 - Technologies Used: Javascript
 
